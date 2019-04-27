@@ -1,0 +1,64 @@
+<style>
+p
+
+
+p.a{
+	margin: 10px;
+}
+p.b{
+	margin: 10px 2%;
+}
+p.c{
+	margin: 10px2%-10px;
+}
+p.d{
+	margin: 10px2%-10px auto;
+}
+    
+p.e{
+	"margine: 15px:border:1px solid ;
+	
+	}
+
+p.f{
+ 	"margin: 10px 2%;border:1px solid black;
+ }
+ 
+  p.g{
+  	"margine: 10px 2%-10px;border:1px solid black;
+  	
+p.h{
+    "margine:10px 2%-10px auto;border:1px solid black;
+    }
+   
+ p.1{
+   "margine-bottom: 15%; border:10px solid black;
+   }
+ p.2{
+ 	<p style="margine-bottom: 15%;border:10px solid black;
+ 	}
+p.t{
+	"margine-top:15px;border:1 px solid black;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+ 
